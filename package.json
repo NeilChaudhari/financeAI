@@ -1,0 +1,24 @@
+{
+  "name": "financeai",
+  "version": "1.0.0",
+  "description": "A Stock Simulator which uses Machine Learning to detect sentiment across the news and the market to tell whether a particular stock will rise or drop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilChaudhari/financeAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeilChaudhari/financeAI/issues"
+  },
+  "homepage": "https://github.com/NeilChaudhari/financeAI#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "twitter-lite": "^1.1.0"
+  }
+}
