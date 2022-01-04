@@ -4,6 +4,7 @@
   "description": "A Stock Simulator which uses Machine Learning to detect sentiment across the news and the market to tell whether a particular stock will rise or drop",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
